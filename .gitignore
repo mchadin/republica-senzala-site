@@ -1,0 +1,19 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# AI & Agent instruction files
+AGENTS.md
+GEMINI.md
+.gemini/
+.antigravity/
+
+# Logs and scratch files
+*.log

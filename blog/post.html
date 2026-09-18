@@ -1,0 +1,349 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="/imagens/favicon.png" type="image/png" />
+    <title>Matéria do Blog | República Senzala - Ouro Preto</title>
+    <meta name="description" content="Registro histórico de comemorações e acontecimentos da República Senzala em Ouro Preto." />
+    <link rel="canonical" href="https://www.republicasenzala.com.br/blog/post.html" />
+    <!-- Open Graph / WhatsApp / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="República Senzala" />
+    <meta property="og:url" content="https://www.republicasenzala.com.br/blog/post.html" />
+    <meta property="og:title" content="Matéria do Blog | República Senzala - Ouro Preto" />
+    <meta property="og:description" content="Registro histórico de comemorações e acontecimentos da República Senzala em Ouro Preto." />
+    <meta property="og:image" content="/imagens/logoPreto.png" />
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Matéria do Blog | República Senzala - Ouro Preto" />
+    <meta name="twitter:description" content="Registro histórico de comemorações e acontecimentos da República Senzala em Ouro Preto." />
+    <meta name="twitter:image" content="/imagens/logoPreto.png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body class="bg-light">
+    <!-- Header -->
+    <div class="header-container"></div>
+
+    <main class="container my-5">
+      <!-- Post Container -->
+      <div id="post-content-wrapper" class="row justify-content-center">
+        <!-- Preenchido dinamicamente via JS -->
+      </div>
+    </main>
+
+    <!-- Lightbox Modal -->
+    <div
+      class="modal fade lightbox-modal"
+      id="lightboxModal"
+      tabindex="-1"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content text-white p-2 p-md-3 position-relative">
+          <!-- Top Bar: Counter + Close -->
+          <div class="d-flex justify-content-between align-items-center mb-2 px-2">
+            <span id="lightbox-counter" class="small text-white-50 fw-semibold"></span>
+            <button
+              type="button"
+              class="btn-close btn-close-white shadow-none"
+              data-bs-dismiss="modal"
+              aria-label="Fechar"
+            ></button>
+          </div>
+
+          <!-- Main Image + Navigation -->
+          <div class="position-relative lightbox-img-container">
+            <button
+              id="lightbox-prev"
+              class="lightbox-btn position-absolute start-0 top-50 translate-middle-y ms-2 shadow"
+              onclick="prevLightboxImage()"
+              aria-label="Foto anterior"
+            >
+              <i class="bi bi-chevron-left"></i>
+            </button>
+
+            <img
+              id="lightbox-current-img"
+              src=""
+              class="lightbox-img"
+              alt="Visualização da foto"
+            />
+
+            <button
+              id="lightbox-next"
+              class="lightbox-btn position-absolute end-0 top-50 translate-middle-y me-2 shadow"
+              onclick="nextLightboxImage()"
+              aria-label="Próxima foto"
+            >
+              <i class="bi bi-chevron-right"></i>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer-container"></div>
+
+    <!-- Scripts -->
+    <script src="/header.js"></script>
+    <script src="/footer.js"></script>
+    <script src="posts.js"></script>
+    <script>
+      let currentGallery = [];
+      let currentLightboxIndex = 0;
+      let bsLightboxModal = null;
+
+      function openLightbox(index) {
+        if (!currentGallery || currentGallery.length === 0) return;
+        currentLightboxIndex = index;
+        updateLightbox();
+
+        const modalEl = document.getElementById("lightboxModal");
+        if (!bsLightboxModal) {
+          bsLightboxModal = new bootstrap.Modal(modalEl);
+        }
+        bsLightboxModal.show();
+      }
+
+      function prevLightboxImage() {
+        if (currentGallery.length <= 1) return;
+        if (currentLightboxIndex > 0) {
+          currentLightboxIndex--;
+        } else {
+          currentLightboxIndex = currentGallery.length - 1;
+        }
+        updateLightbox();
+      }
+
+      function nextLightboxImage() {
+        if (currentGallery.length <= 1) return;
+        if (currentLightboxIndex < currentGallery.length - 1) {
+          currentLightboxIndex++;
+        } else {
+          currentLightboxIndex = 0;
+        }
+        updateLightbox();
+      }
+
+      function updateLightbox() {
+        const imgEl = document.getElementById("lightbox-current-img");
+        const counterEl = document.getElementById("lightbox-counter");
+        const prevBtn = document.getElementById("lightbox-prev");
+        const nextBtn = document.getElementById("lightbox-next");
+
+        if (imgEl && currentGallery[currentLightboxIndex]) {
+          imgEl.src = currentGallery[currentLightboxIndex];
+        }
+
+        if (counterEl) {
+          counterEl.textContent = `Foto ${currentLightboxIndex + 1} de ${currentGallery.length}`;
+        }
+
+        if (currentGallery.length <= 1) {
+          if (prevBtn) prevBtn.style.display = "none";
+          if (nextBtn) nextBtn.style.display = "none";
+        } else {
+          if (prevBtn) prevBtn.style.display = "flex";
+          if (nextBtn) nextBtn.style.display = "flex";
+        }
+      }
+
+      // Navegação por teclado (Setas e Escape)
+      document.addEventListener("keydown", function (e) {
+        const modalEl = document.getElementById("lightboxModal");
+        if (modalEl && modalEl.classList.contains("show")) {
+          if (e.key === "ArrowLeft") {
+            prevLightboxImage();
+          } else if (e.key === "ArrowRight") {
+            nextLightboxImage();
+          }
+        }
+      });
+
+      // Suporte a swipe no celular
+      let touchStartX = 0;
+      let touchEndX = 0;
+      const modalDialog = document.querySelector(".lightbox-modal");
+      if (modalDialog) {
+        modalDialog.addEventListener("touchstart", function (e) {
+          touchStartX = e.changedTouches[0].screenX;
+        }, { passive: true });
+
+        modalDialog.addEventListener("touchend", function (e) {
+          touchEndX = e.changedTouches[0].screenX;
+          if (touchEndX < touchStartX - 50) {
+            nextLightboxImage(); // swipe esquerda -> próxima
+          }
+          if (touchEndX > touchStartX + 50) {
+            prevLightboxImage(); // swipe direita -> anterior
+          }
+        }, { passive: true });
+      }
+
+      document.addEventListener("DOMContentLoaded", function () {
+        const urlParams = new URLSearchParams(window.location.search);
+        const postId = urlParams.get("id");
+        const container = document.getElementById("post-content-wrapper");
+
+        if (!postId || typeof blogPosts === "undefined") {
+          renderError("Matéria não encontrada.");
+          return;
+        }
+
+        const postIndex = blogPosts.findIndex((p) => p.id === postId || p.slug === postId);
+        if (postIndex === -1) {
+          renderError("Matéria não encontrada no acervo.");
+          return;
+        }
+
+        const post = blogPosts[postIndex];
+        const prevPost = postIndex > 0 ? blogPosts[postIndex - 1] : null;
+        const nextPost = postIndex < blogPosts.length - 1 ? blogPosts[postIndex + 1] : null;
+
+        // Atualiza título e meta tags para compartilhamento
+        document.title = `${post.titulo} - República Senzala`;
+        const ogTitle = document.querySelector('meta[property="og:title"]');
+        if (ogTitle) ogTitle.setAttribute('content', post.titulo);
+        const ogDesc = document.querySelector('meta[property="og:description"]');
+        if (ogDesc && post.resumo) ogDesc.setAttribute('content', post.resumo);
+        const ogImg = document.querySelector('meta[property="og:image"]');
+        if (ogImg && post.imagem) ogImg.setAttribute('content', post.imagem);
+
+        // Monta lista unificada de fotos da galeria para o Lightbox
+        currentGallery = [];
+        if (post.galeria && post.galeria.length > 0) {
+          currentGallery = [...post.galeria];
+        } else if (post.imagem) {
+          currentGallery = [post.imagem];
+        }
+
+        // Galeria de fotos HTML
+        let galeriaHTML = "";
+        if (post.galeria && post.galeria.length > 0) {
+          galeriaHTML = `
+            <div class="mt-5 pt-4 border-top">
+              <h4 class="fw-bold mb-4 section-heading-dark">
+                <i class="bi bi-images text-gold me-2"></i>Galeria de Fotos (${post.galeria.length})
+              </h4>
+              <div class="row g-3">
+                ${post.galeria
+                  .map(
+                    (img, idx) => `
+                  <div class="col-6 col-md-4 col-lg-3">
+                    <div class="gallery-thumbnail rounded-3 overflow-hidden shadow-sm position-relative" onclick="openLightbox(${idx})">
+                      <img src="${img}" class="w-100 object-fit-cover rounded-3 post-gallery-image" alt="Foto ${idx + 1}" loading="lazy" onerror="this.parentElement.parentElement.classList.add('hidden-on-error')" />
+                    </div>
+                  </div>
+                `
+                  )
+                  .join("")}
+              </div>
+            </div>
+          `;
+        }
+
+        // Parágrafos de conteúdo
+        const paragrafosHTML = post.conteudo && post.conteudo.length > 0
+          ? post.conteudo.map((p) => `<p class="text-secondary post-content">${p}</p>`).join("")
+          : `<p class="text-secondary post-summary">${post.resumo}</p>`;
+
+        // Render Principal
+        container.innerHTML = `
+          <div class="col-lg-9">
+            <article class="bg-white p-4 p-md-5 rounded-4 shadow-sm border">
+              <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-3">
+                <span class="badge bg-gold text-dark px-3 py-2 text-uppercase fw-bold">${post.categoria}</span>
+                <span class="text-muted small"><i class="bi bi-calendar3 text-gold me-1"></i>${post.data}</span>
+              </div>
+
+              <h1 class="display-6 fw-bold mb-4 section-heading-dark">${post.titulo}</h1>
+
+              ${
+                post.imagem
+                  ? `<div class="mb-4 text-center">
+                      <div class="gallery-thumbnail rounded-4 overflow-hidden shadow-sm" onclick="openLightbox(0)">
+                        <img src="${post.imagem}" class="img-fluid w-100 post-cover-image" alt="${post.titulo}" onerror="this.parentElement.classList.add('hidden-on-error')" />
+                      </div>
+                    </div>`
+                  : ""
+              }
+
+              <div class="article-body my-4">
+                ${paragrafosHTML}
+              </div>
+
+              ${galeriaHTML}
+
+              <!-- Compartilhar e Voltar -->
+              <div class="mt-5 pt-4 border-top d-flex flex-wrap align-items-center justify-content-between gap-3">
+                <a href="/blog/blog.html" class="btn btn-outline-dark fw-semibold px-4">
+                  <i class="bi bi-arrow-left me-1"></i> Voltar ao Blog
+                </a>
+                <div class="d-flex gap-2">
+                  <a href="https://api.whatsapp.com/send?text=${encodeURIComponent(post.titulo + ' - Veja no Blog da República Senzala: ' + window.location.href)}" target="_blank" class="btn btn-success fw-bold px-3">
+                    <i class="bi bi-whatsapp me-1"></i> Compartilhar
+                  </a>
+                </div>
+              </div>
+
+              <!-- Navegação Anterior / Próximo -->
+              <div class="row g-3 mt-4 pt-3 border-top">
+                <div class="col-6">
+                  ${
+                    prevPost
+                      ? `<a href="/blog/post.html?id=${prevPost.id}" class="text-decoration-none text-dark">
+                          <small class="text-muted d-block"><i class="bi bi-chevron-left"></i> Mais Recente</small>
+                          <span class="fw-bold small text-truncate d-block">${prevPost.titulo}</span>
+                        </a>`
+                      : ""
+                  }
+                </div>
+                <div class="col-6 text-end">
+                  ${
+                    nextPost
+                      ? `<a href="/blog/post.html?id=${nextPost.id}" class="text-decoration-none text-dark">
+                          <small class="text-muted d-block">Mais Antigo <i class="bi bi-chevron-right"></i></small>
+                          <span class="fw-bold small text-truncate d-block">${nextPost.titulo}</span>
+                        </a>`
+                      : ""
+                  }
+                </div>
+              </div>
+            </article>
+          </div>
+        `;
+      });
+
+      function renderError(msg) {
+        document.getElementById("post-content-wrapper").innerHTML = `
+          <div class="col-lg-8 text-center py-5">
+            <i class="bi bi-file-earmark-x fs-1 text-muted"></i>
+            <h3 class="fw-bold mt-3">${msg}</h3>
+            <p class="text-secondary">A postagem que você está procurando pode ter sido movida ou não existe mais.</p>
+            <a href="/blog/blog.html" class="btn btn-gold px-4 py-2 mt-2 fw-bold">Ver Todas as Matérias</a>
+          </div>
+        `;
+      }
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
+
+

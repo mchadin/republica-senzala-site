@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="/imagens/favicon.png" type="image/png" />
+    <title>Blog e Notícias | República Senzala - Ouro Preto</title>
+    <meta name="description" content="Notícias, eventos, matérias históricas e tudo sobre a vivência universitária da República Senzala em Ouro Preto." />
+    <link rel="canonical" href="https://www.republicasenzala.com.br/blog/blog.html" />
+    <!-- Open Graph / WhatsApp / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="República Senzala" />
+    <meta property="og:url" content="https://www.republicasenzala.com.br/blog/blog.html" />
+    <meta property="og:title" content="Blog e Notícias | República Senzala - Ouro Preto" />
+    <meta property="og:description" content="Notícias, eventos, matérias históricas e tudo sobre a vivência universitária da República Senzala em Ouro Preto." />
+    <meta property="og:image" content="/imagens/PHOTO-2023-10-15-02-36-51_3.jpg" />
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Blog e Notícias | República Senzala - Ouro Preto" />
+    <meta name="twitter:description" content="Notícias, eventos, matérias históricas e tudo sobre a vivência universitária da República Senzala em Ouro Preto." />
+    <meta name="twitter:image" content="/imagens/PHOTO-2023-10-15-02-36-51_3.jpg" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+    />
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body class="bg-light">
+    <!-- Header -->
+    <div class="header-container"></div>
+
+    <main class="container my-5">
+      <!-- Top Header -->
+      <div id="blog-header" class="text-center mb-5">
+        <h1 class="display-5 fw-bold text-dark">Blog da República Senzala</h1>
+        <p class="lead text-secondary mx-auto blog-intro">
+          Acervo histórico com os registros, confraternizações, formaturas e acontecimentos da nossa irmandade desde 1982.
+        </p>
+      </div>
+
+      <!-- Barra de Busca e Filtros -->
+      <section class="bg-white p-4 rounded-4 shadow-sm border mb-5">
+        <div class="row g-3 align-items-center justify-content-between">
+          <div class="col-12 col-md-5">
+            <div class="input-group">
+              <span class="input-group-text bg-light border-end-0 text-muted"><i class="bi bi-search"></i></span>
+              <input
+                type="text"
+                id="search-input"
+                class="form-control border-start-0 ps-0 shadow-none"
+                placeholder="Buscar por termo, festa, ano..."
+              />
+            </div>
+          </div>
+          <div class="col-12 col-md-7 text-md-end">
+            <small id="posts-count" class="text-muted fw-semibold"></small>
+          </div>
+        </div>
+
+        <!-- Categorias Pills -->
+        <div class="d-flex flex-wrap gap-2 mt-3 pt-3 border-top">
+          <button class="btn btn-gold btn-sm px-3 category-pill" data-category="Todos">Todos</button>
+          <button class="btn btn-outline-dark btn-sm px-3 category-pill" data-category="12 de Outubro">12 de Outubro</button>
+          <button class="btn btn-outline-dark btn-sm px-3 category-pill" data-category="21 de Abril">21 de Abril</button>
+          <button class="btn btn-outline-dark btn-sm px-3 category-pill" data-category="Ceia Monstro">Ceia Monstro</button>
+          <button class="btn btn-outline-dark btn-sm px-3 category-pill" data-category="Carnaval">Carnaval</button>
+          <button class="btn btn-outline-dark btn-sm px-3 category-pill" data-category="Formaturas">Formaturas</button>
+          <button class="btn btn-outline-dark btn-sm px-3 category-pill" data-category="Vagas">Vagas</button>
+          <button class="btn btn-outline-dark btn-sm px-3 category-pill" data-category="Geral">Geral</button>
+        </div>
+      </section>
+
+      <!-- Grid de Postagens Dinâmicas -->
+      <div id="posts-container" class="row g-4 mb-4">
+        <!-- Renderizado dinamicamente via script.js -->
+      </div>
+
+      <!-- Paginação -->
+      <div id="pagination-container"></div>
+    </main>
+
+    <!-- Footer -->
+    <div class="footer-container"></div>
+
+    <!-- Scripts -->
+    <script src="/header.js"></script>
+    <script src="/footer.js"></script>
+    <script src="posts.js"></script>
+    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
+
+
