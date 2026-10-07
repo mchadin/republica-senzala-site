@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle text-white fw-semibold" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            ESCRAVOS
+            MORADORES
           </a>
           <ul class="dropdown-menu shadow border-0">
             <li><a class="dropdown-item" href="/escravos/moradores/moradores.html">Moradores</a></li>

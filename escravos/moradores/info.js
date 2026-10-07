@@ -7,9 +7,9 @@ const moradores = [
     periodo: "UFOP",
     cidade: "Muriaé",
     estado: "MG",
-    email: "senzala_em@yahoo.com.br",
+    email: "danielmgfaria@gmail.com",
     linkedin: "",
-    instagram: "rep.senzala",
+    instagram: "danielm.gomes",
   },
   {
     codigo: "002",
@@ -21,7 +21,7 @@ const moradores = [
     estado: "ES",
     email: "senzala_em@yahoo.com.br",
     linkedin: "",
-    instagram: "rep.senzala",
+    instagram: "rogeriomajunior",
   },
   {
     codigo: "003",
@@ -31,9 +31,9 @@ const moradores = [
     periodo: "UFOP",
     cidade: "Rio de Janeiro",
     estado: "RJ",
-    email: "senzala_em@yahoo.com.br",
+    email: "brserraos@gmail.com",
     linkedin: "",
-    instagram: "rep.senzala",
+    instagram: "zw_bruno1",
   },
   {
     codigo: "004",
@@ -43,9 +43,9 @@ const moradores = [
     periodo: "UFOP",
     cidade: "Itabirito",
     estado: "MG",
-    email: "senzala_em@yahoo.com.br",
+    email: "logangabrielb.pinto@gmail.com",
     linkedin: "",
-    instagram: "rep.senzala",
+    instagram: "logang_w6",
   },
 ];
 
