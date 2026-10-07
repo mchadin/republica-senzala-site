@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <div class="d-flex gap-3 mt-3">
           <a href="https://wa.me/553186034916" target="_blank" class="text-white-50 fs-5 text-decoration-none" title="WhatsApp"><i class="bi bi-whatsapp"></i></a>
           <a href="https://www.instagram.com/rep.senzala/" target="_blank" class="text-white-50 fs-5 text-decoration-none" title="Instagram"><i class="bi bi-instagram"></i></a>
-          <a href="mailto:senzala_em@yahoo.com.br" class="text-white-50 fs-5 text-decoration-none" title="E-mail"><i class="bi bi-envelope-fill"></i></a>
+          <a href="mailto:senzalaop.em@gmail.com" class="text-white-50 fs-5 text-decoration-none" title="E-mail"><i class="bi bi-envelope-fill"></i></a>
           <a href="https://maps.app.goo.gl/ntCTVwsVfL8D65hd8" target="_blank" class="text-white-50 fs-5 text-decoration-none" title="Localização"><i class="bi bi-geo-alt-fill"></i></a>
         </div>
       </div>
@@ -36,8 +36,8 @@ document.addEventListener("DOMContentLoaded", function () {
             </a>
           </li>
           <li>
-            <a href="mailto:senzala_em@yahoo.com.br" class="text-white-50 text-decoration-none">
-              <i class="bi bi-envelope text-warning me-2"></i> senzala_em@yahoo.com.br
+            <a href="mailto:senzalaop.em@gmail.com" class="text-white-50 text-decoration-none">
+              <i class="bi bi-envelope text-warning me-2"></i> senzalaop.em@gmail.com
             </a>
           </li>
           <li>
