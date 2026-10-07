@@ -147,18 +147,6 @@ body {
   background-color: var(--senzala-dark) !important;
 }
 
-.hero-slide-one {
-  background-image: url('/imagens/dsc026571.jpg');
-}
-
-.hero-slide-two {
-  background-image: url('/imagens/snapinsta-1787658590508.jpg');
-}
-
-.hero-slide-three {
-  background-image: url('/imagens/PHOTO-2023-10-15-02-36-51_3.jpg');
-}
-
 .hidden-on-error {
   display: none !important;
 }
@@ -223,10 +211,15 @@ body {
 .carousel-item {
   height: 65vh;
   min-height: 400px;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
   position: relative;
+}
+
+.carousel-image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .carousel-overlay {

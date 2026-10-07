@@ -1,6 +1,7 @@
 const moradores = [
   {
     codigo: "001",
+    foto: "Sansao.jpeg",
     apelido: "SANSÃO",
     nome: "Daniel Martins Gomes de Faria",
     curso: "Engenharia Civil",
@@ -13,18 +14,20 @@ const moradores = [
   },
   {
     codigo: "002",
+    foto: "Mausensu.jpeg",
     apelido: "MAUSENSU",
     nome: "Rogério Mariano de Almeida Júnior",
     curso: "Engenharia Mecânica",
     periodo: "UFOP",
     cidade: "Irupi",
     estado: "ES",
-    email: "senzala_em@yahoo.com.br",
+    email: "eng.rogeriojr@gmail.com",
     linkedin: "",
     instagram: "rogeriomajunior",
   },
   {
     codigo: "003",
+    foto: "fidivo.jpeg",
     apelido: "FIDIVÓ",
     nome: "Bruno Serrão dos Santos",
     curso: "Engenharia Geológica",
@@ -37,6 +40,7 @@ const moradores = [
   },
   {
     codigo: "004",
+    foto: "Iskimoh.jpeg",
     apelido: "ISKIMOH",
     nome: "Logan Gabriel Braga Pinto",
     curso: "Engenharia de Controle e Automação",
@@ -48,4 +52,3 @@ const moradores = [
     instagram: "logang_w6",
   },
 ];
-
