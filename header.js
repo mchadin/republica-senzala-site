@@ -1,7 +1,7 @@
 // header.js
 document.addEventListener("DOMContentLoaded", function () {
   const headerContent = `
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top shadow-sm senzala-navbar">
+<nav class="navbar navbar-expand-xl navbar-dark bg-dark sticky-top shadow-sm senzala-navbar">
   <div class="container">
     <a class="navbar-brand d-flex align-items-center fw-bold" href="/index.html">
       <img src="/imagens/logoPreto.png" alt="República Senzala" height="38" class="me-2">
@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
     </button>
 
     <div class="collapse navbar-collapse" id="navbarSenzala">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-3">
+      <ul class="navbar-nav me-auto mb-2 mb-xl-0 ms-xl-3">
         <li class="nav-item">
           <a class="nav-link text-white fw-semibold" href="/index.html">INÍCIO</a>
         </li>
