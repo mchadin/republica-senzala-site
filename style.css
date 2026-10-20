@@ -116,10 +116,16 @@ body {
 }
 
 .alumni-photo {
-  width: 100px;
-  height: 100px;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 4;
   object-fit: cover;
+  object-position: center top;
   border: 2px solid var(--senzala-gold);
+}
+
+.alumni-photo.alumni-photo-square {
+  aspect-ratio: 1 / 1;
 }
 
 .alumni-detail {
@@ -197,6 +203,24 @@ body {
 .stat-card:hover {
   transform: translateY(-4px);
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+/* Ex-alunos in memoriam: faixa preta no canto do card */
+.alumni-memoriam {
+  position: relative;
+  overflow: hidden;
+}
+
+.alumni-memoriam::after {
+  content: "";
+  position: absolute;
+  top: 16px;
+  right: -36px;
+  width: 130px;
+  height: 14px;
+  background: #000;
+  transform: rotate(45deg);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35);
 }
 
 /* Badges dos Moradores e Ex-alunos */

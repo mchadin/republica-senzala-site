@@ -1,5 +1,5 @@
 const homenageados = [
-  { codigo: "001", apelido: "MENELAU", nome: "Manoel Marciano Lopes Filho", cidade: "Tocantins - MG", curso: "Escravo Fundador (In Memoriam)", formatura: "" },
+  { codigo: "001", apelido: "MENELAU", nome: "Manoel Marciano Lopes Filho", cidade: "Tocantins - MG", curso: "Escravo Fundador", formatura: "", memoriam: true },
   { codigo: "002", apelido: "RÔ", nome: "Rosângela Coelho Monferrari Sol", cidade: "Belo Horizonte - MG", curso: "Farmácia", formatura: "Março/1986" },
   { codigo: "003", apelido: "CAMBEBA", nome: "Gilberto Cézar Alves de Faria", cidade: "Ouro Preto - MG", curso: "Engenharia de Minas", formatura: "Agosto/1994" },
   { codigo: "004", apelido: "RENÊ", nome: "Renê Guimarães Ruggeri", cidade: "Cachoeira do Campo - MG", curso: "Engenharia de Minas", formatura: "Julho/1995" },

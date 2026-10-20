@@ -17,11 +17,11 @@ function renderHomenageados(lista) {
   lista.forEach((aluno) => {
     const cardHTML = `
       <div class="col-6 col-md-4 col-lg-3">
-        <div class="alumni-card p-3 h-100 d-flex flex-column text-center">
+        <div class="alumni-card${aluno.memoriam ? ' alumni-memoriam' : ''} p-3 h-100 d-flex flex-column text-center"${aluno.memoriam ? ' title="In memoriam"' : ''}>
           <div class="mb-3">
             <img
               src="/escravos/homenageados/fotos/${aluno.codigo}.jpg"
-                class="rounded-circle shadow-sm alumni-photo"
+                class="rounded shadow-sm alumni-photo"
               alt="${aluno.apelido}"
               loading="lazy"
               onerror="this.classList.add('hidden-on-error')"

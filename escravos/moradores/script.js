@@ -11,7 +11,7 @@
           <div class="mb-3">
             <img
               src="/escravos/moradores/fotos/${aluno.foto}"
-              class="rounded-circle shadow-sm alumni-photo"
+              class="rounded shadow-sm alumni-photo alumni-photo-square"
               alt="${aluno.apelido}"
               loading="lazy"
               onerror="this.classList.add('hidden-on-error')"
