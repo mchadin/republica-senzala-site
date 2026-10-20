@@ -32,7 +32,11 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-21-de-2024/PHOTO-2024-04-19-19-41-54.jpg",
                         "/blog/fotos/gallery/fotos-do-21-de-2024/PHOTO-2024-04-20-14-46-20.jpg",
                         "/blog/fotos/gallery/fotos-do-21-de-2024/PHOTO-2024-04-20-16-55-54.jpg",
-                        "/blog/fotos/gallery/fotos-do-21-de-2024/PHOTO-2024-04-20-16-55-44.jpg"
+                        "/blog/fotos/gallery/fotos-do-21-de-2024/PHOTO-2024-04-20-16-55-44.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2024/PHOTO-2024-04-19-16-36-22.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2024/PHOTO-2024-04-19-17-57-46.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2024/PHOTO-2024-04-20-16-55-45.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2024/PHOTO-2024-04-19-17-22-05.jpg"
                     ]
     },
     {
@@ -67,7 +71,71 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-00-18.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-00-17.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-00-20_1.jpg",
-                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-00-23.jpg"
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-00-23.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-00-26.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-00-21.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-00-20_2.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-00-26_1.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-01-09.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-00-27.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-00-25.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-01-14.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-01-12.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-01-09_1.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-01-17.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-01-23.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-01-13.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-01-20.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-10-09.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-10-54.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-10-42.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-10-32.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-11-14.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-11-21.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-18-16.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-11-29.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-18-21.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-20-47.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-36-13_1.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-18-25.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-16-36.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-21-52.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-18-36-13.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-16-48.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-17-10.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-16-50.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-17-15.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-16-55.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-17-25.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-17-18.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-17-25_1.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-17-25_2.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-17-26.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-17-26_1.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-17-26_2.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-17-28.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-17-27.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-17-28_1.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-17-29.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-17-29_1.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-17-30.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-17-27_1.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-20-24-36.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-19-17-37.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-20-24-39_1.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-20-24-39.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-23-07-44.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-22-57-38.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-22-59-47.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-15-02-36-51.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-14-23-08-47.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-15-02-36-51_2.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-15-02-36-51_3.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-15-02-36-52.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-15-09-30-03.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-15-02-36-51_1.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-15-09-05-36_1.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2023/PHOTO-2023-10-15-09-05-36.jpg"
                     ]
     },
     {
@@ -130,7 +198,48 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-06-45.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-06-46-2.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-06-46.jpg",
-                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-07-28.jpg"
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-07-28.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-06-48.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-16.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-08.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-10.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-17.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-18-2.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-18.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-19.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-19-2.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-23-2.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-22.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-25.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-24.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-23.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-26.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-28-2.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-32-2.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-27.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-51.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-28.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-32.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-56.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-09-00.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-08-59.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-09-01-2.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-09-01-3.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-09-01.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-09-02.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-09-02-2.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-09-03-3.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-09-03.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-09-03-2.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-09-36.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-09-35.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-03-09-41.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-07-58-51-2.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-07-58-51.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-12-11-53-2.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-19-07-53.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-12-11-53.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2022/PHOTO-2022-10-09-12-12-06.jpg"
                     ]
     },
     {
@@ -165,7 +274,27 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_9b8e5300.jpg",
                         "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_7c3a4f65.jpg",
                         "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_9fbf3352.jpg",
-                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_21d7ebfc.jpg"
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_21d7ebfc.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_68f80258.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_47d53dfe.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_9ef600ff.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_93aaab55.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_63edb70d.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_915e09b3.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_8164f575.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_1698bb63.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_097354ba.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_3240307e.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_a8a2b8b4.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_aacb2353.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_a53f30b6.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_b41fd935.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_0222668c.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_b9648db9.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_c49a4507.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_ebf2370b.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_e3d49f6e.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2022/Imagem-do-WhatsApp-de-2024-06-13-_C3_A0s-18.11.47_c8169097.jpg"
                     ]
     },
     {
@@ -191,13 +320,13 @@ const blogPosts = [
         "titulo":  "Registro Histórico - Foto enviada pelo Ex-Aluno NaBolha",
         "data":  "08/02/2021",
         "categoria":  "Formaturas",
-        "imagem":  "/blog/fotos/uploads/2021/02/Photo-from-Alexsandro-NaBolha-300x225.jpg",
+        "imagem":  "/blog/fotos/uploads/2021/02/Photo-from-Alexsandro-NaBolha.jpg",
         "resumo":  "Registro Histórico - Foto enviada pelo Ex-Aluno NaBolha. Registro histórico das comemorações e acontecimentos da República Senzala.",
         "conteudo":  [
                          "Registro Histórico - Foto enviada pelo Ex-Aluno NaBolha. Registro histórico das comemorações e acontecimentos da República Senzala."
                      ],
         "galeria":  [
-                        "/blog/fotos/uploads/2021/02/Photo-from-Alexsandro-NaBolha-300x225.jpg"
+                        "/blog/fotos/uploads/2021/02/Photo-from-Alexsandro-NaBolha.jpg"
                     ]
     },
     {
@@ -232,7 +361,111 @@ const blogPosts = [
                         "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_221614893.jpg",
                         "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_221652314_BURST000_COVER_TOP.jpg",
                         "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_221652314_BURST001.jpg",
-                        "/blog/fotos/uploads/2020/05/IMG_20191214_233307551_BURST000_COVER_TOP-300x225.jpg"
+                        "/blog/fotos/uploads/2020/05/IMG_20191214_233307551_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_221752102.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_221842260_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_221940362_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222119862_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222119862_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222129791_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222129791_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222133943_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222232966.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222404172_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222802385.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222836476.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222838722.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222925545_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223019425.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223045761_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223045761_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223111610.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223113433.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223310144.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223400253_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223403661.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223405084.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223431736.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223446921.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223608387.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223725668_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223752741.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223755760.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223833813_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223847327.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223850319.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223910655.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_223954877_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224126902_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224130318.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224232746_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224310240.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224324188.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224428366_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224600825.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224645848.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224650001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224654245_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224658776_BURST000_COVER.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224658776_BURST004.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224701475_BURST000_COVER.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224752495.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224757877_BURST007.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224757877_BURST008.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224757877_BURST009.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224841666_BURST003.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224859793_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_224859793_BURST007.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_233008496_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_233008496_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_233105485.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_233109088.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_233115553.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_233300848_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_233300848_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_233303291_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_233303291_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_233307551_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_233307551_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_233430661.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_233432161.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_220148706_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_220312858.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_220314053.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_220331582_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_220400431_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_220407054_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_220407054_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_220638375_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_220641411_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_220641411_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_220643665_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_220643665_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_220656211_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_220949510_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_220949510_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_220959167_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_221424748_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_221424748_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_221426837_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_221426837_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_221554603_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_221808003_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_221808003_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_221839012_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_221839012_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_221842260_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_221940362_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222033185.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222128858.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222130777_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222130777_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222133943_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222351733.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222355374_BURST000_COVER_TOP.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222355374_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222404172_BURST001.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2019-1/IMG_20191214_222427479.jpg"
                     ]
     },
     {
@@ -264,7 +497,7 @@ const blogPosts = [
                         "/blog/fotos/gallery/quadrinho-gamba/IMG_20190727_174413319_BURST001.jpg",
                         "/blog/fotos/gallery/quadrinho-gamba/IMG_20191012_182201330_BURST000_COVER_TOP.jpg",
                         "/blog/fotos/gallery/quadrinho-gamba/IMG_20191012_182201330_BURST001.jpg",
-                        "/blog/fotos/uploads/2020/05/IMG_20190727_172842956_HDR-300x169.jpg"
+                        "/blog/fotos/uploads/2020/05/IMG_20190727_172842956_HDR.jpg"
                     ]
     },
     {
@@ -299,7 +532,13 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-12-de-2019/IMG-20200313-WA0035.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-2019/IMG-20200313-WA0036.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-2019/IMG-20200313-WA0037.jpg",
-                        "/blog/fotos/uploads/2020/03/IMG-20200313-WA0015-300x225.jpg"
+                        "/blog/fotos/uploads/2020/03/IMG-20200313-WA0015.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2019/IMG-20200313-WA0002.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2019/IMG-20200313-WA0039.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2019/IMG-20200313-WA0041.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2019/IMG-20200313-WA0042.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2019/IMG-20200313-WA0043.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2019/IMG-20200313-WA0044.jpg"
                     ]
     },
     {
@@ -325,7 +564,7 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-21-de-2019/IMG-20200313-WA0065.jpg",
                         "/blog/fotos/gallery/fotos-do-21-de-2019/IMG-20200313-WA0066.jpg",
                         "/blog/fotos/gallery/fotos-do-21-de-2019/IMG-20200313-WA0070.jpg",
-                        "/blog/fotos/uploads/2020/03/IMG-20200313-WA0061-300x225.jpg"
+                        "/blog/fotos/uploads/2020/03/IMG-20200313-WA0061.jpg"
                     ]
     },
     {
@@ -356,7 +595,7 @@ const blogPosts = [
                         "/blog/fotos/gallery/12-de-2018/IMG_3238.JPG",
                         "/blog/fotos/gallery/12-de-2018/IMG_3239.JPG",
                         "/blog/fotos/gallery/12-de-2018/IMG_3244.JPG",
-                        "/blog/fotos/uploads/2019/03/IMG_3550-1024x768.jpg"
+                        "/blog/fotos/uploads/2019/03/IMG_3550.jpg"
                     ]
     },
     {
@@ -391,7 +630,54 @@ const blogPosts = [
                         "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2918.JPG",
                         "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2919.JPG",
                         "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2920.JPG",
-                        "/blog/fotos/uploads/2018/10/IMG_2809-1024x768.jpg"
+                        "/blog/fotos/uploads/2018/10/IMG_2809.jpg",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2921.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2922.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2924.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2925.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2926.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2927.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2928.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2932.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2933.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2934.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2935.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2936.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2937.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2938.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2939.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2940.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2941.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2942.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2943.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2944.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2946.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2947.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2948.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2958.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2963.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2965.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2967.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2969.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2972.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2973.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2974.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2976.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2977.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2978.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2979.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2980.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2981.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2983.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2984.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2985.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2987.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2994.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_3007.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_3020.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_3032.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_3035.JPG",
+                        "/blog/fotos/gallery/formatura-pateta-e-mamapo/IMG_2787.JPG"
                     ]
     },
     {
@@ -441,7 +727,15 @@ const blogPosts = [
                         "/blog/fotos/gallery/21-de-2018/IMG_2446.JPG",
                         "/blog/fotos/gallery/21-de-2018/IMG_2447.JPG",
                         "/blog/fotos/gallery/21-de-2018/IMG_2449.JPG",
-                        "/blog/fotos/uploads/2018/05/IMG_2463-1024x768.jpg"
+                        "/blog/fotos/uploads/2018/05/IMG_2463.jpg",
+                        "/blog/fotos/gallery/21-de-2018/IMG_2452.JPG",
+                        "/blog/fotos/gallery/21-de-2018/IMG_2455.JPG",
+                        "/blog/fotos/gallery/21-de-2018/IMG_2456.JPG",
+                        "/blog/fotos/gallery/21-de-2018/IMG_2463.JPG",
+                        "/blog/fotos/gallery/21-de-2018/IMG_2471.JPG",
+                        "/blog/fotos/gallery/21-de-2018/IMG_2479.JPG",
+                        "/blog/fotos/gallery/21-de-2018/IMG_2503.JPG",
+                        "/blog/fotos/gallery/21-de-2018/IMG_2511.JPG"
                     ]
     },
     {
@@ -450,13 +744,13 @@ const blogPosts = [
         "titulo":  "A República Senzala tem o prazer de convidar a todos para a comemoração de seu 36º aniversário, neste 21 de abril de 2018!",
         "data":  "16/03/2018",
         "categoria":  "21 de Abril",
-        "imagem":  "/blog/fotos/uploads/2018/03/apresenta_C3_A7_C3_A3o-1024x614.jpg",
+        "imagem":  "/blog/fotos/uploads/2018/03/apresentacao.jpg",
         "resumo":  "A República Senzala tem o prazer de convidar a todos para a comemoração de seu 36º aniversário, neste 21 de abril de 2018!. Registro histórico das comemorações e acontecimentos da República Senzala.",
         "conteudo":  [
                          "A República Senzala tem o prazer de convidar a todos para a comemoração de seu 36º aniversário, neste 21 de abril de 2018!. Registro histórico das comemorações e acontecimentos da República Senzala."
                      ],
         "galeria":  [
-                        "/blog/fotos/uploads/2018/03/apresenta_C3_A7_C3_A3o-1024x614.jpg"
+                        "/blog/fotos/uploads/2018/03/apresentacao.jpg"
                     ]
     },
     {
@@ -491,7 +785,14 @@ const blogPosts = [
                         "/blog/fotos/gallery/ceia-monstro-2017/WhatsApp-Image-2017-12-09-at-22.45.00.jpeg",
                         "/blog/fotos/gallery/ceia-monstro-2017/WhatsApp-Image-2017-12-09-at-22.45.25.jpeg",
                         "/blog/fotos/gallery/ceia-monstro-2017/WhatsApp-Image-2017-12-09-at-22.46.29.jpeg",
-                        "/blog/fotos/uploads/2017/12/WhatsApp-Image-2017-12-09-at-16.08.41-1024x768.jpeg"
+                        "/blog/fotos/uploads/2017/12/WhatsApp-Image-2017-12-09-at-16.08.41.jpeg",
+                        "/blog/fotos/gallery/ceia-monstro-2017/WhatsApp-Image-2017-12-09-at-22.47.21.jpeg",
+                        "/blog/fotos/gallery/ceia-monstro-2017/WhatsApp-Image-2017-12-09-at-22.49.03.jpeg",
+                        "/blog/fotos/gallery/ceia-monstro-2017/WhatsApp-Image-2017-12-09-at-23.05.31.jpeg",
+                        "/blog/fotos/gallery/ceia-monstro-2017/WhatsApp-Image-2017-12-09-at-23.05.50.jpeg",
+                        "/blog/fotos/gallery/ceia-monstro-2017/WhatsApp-Image-2017-12-09-at-23.06.36.jpeg",
+                        "/blog/fotos/gallery/ceia-monstro-2017/WhatsApp-Image-2017-12-10-at-07.36.19.jpeg",
+                        "/blog/fotos/gallery/ceia-monstro-2017/WhatsApp-Image-2017-12-09-at-15.02.22.jpeg"
                     ]
     },
     {
@@ -512,7 +813,12 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-21-de-2017-1/3.JPG",
                         "/blog/fotos/gallery/fotos-do-21-de-2017-1/4.JPG",
                         "/blog/fotos/gallery/fotos-do-21-de-2017-1/5.JPG",
-                        "/blog/fotos/uploads/2017/11/1.jpg"
+                        "/blog/fotos/uploads/2017/11/1.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2017-1/DSCN8850.JPG",
+                        "/blog/fotos/gallery/fotos-do-21-de-2017-1/DSCN8856.JPG",
+                        "/blog/fotos/gallery/fotos-do-21-de-2017-1/DSCN8858.JPG",
+                        "/blog/fotos/gallery/fotos-do-21-de-2017-1/DSCN8862.JPG",
+                        "/blog/fotos/gallery/fotos-do-21-de-2017-1/DSCN8866.JPG"
                     ]
     },
     {
@@ -547,7 +853,12 @@ const blogPosts = [
                         "/blog/fotos/gallery/formatura-mimado/DSC_0208.JPG",
                         "/blog/fotos/gallery/formatura-mimado/DSC_0219.JPG",
                         "/blog/fotos/gallery/formatura-mimado/DSC_0407.JPG",
-                        "/blog/fotos/uploads/2017/11/17883878_1693520217608447_369002210577202163_n.jpg"
+                        "/blog/fotos/uploads/2017/11/17883878_1693520217608447_369002210577202163_n.jpg",
+                        "/blog/fotos/gallery/formatura-mimado/DSC_0412.JPG",
+                        "/blog/fotos/gallery/formatura-mimado/DSC_0443.JPG",
+                        "/blog/fotos/gallery/formatura-mimado/DSC_0464.JPG",
+                        "/blog/fotos/gallery/formatura-mimado/DSC_0484.JPG",
+                        "/blog/fotos/gallery/formatura-mimado/DSC_0517.JPG"
                     ]
     },
     {
@@ -582,7 +893,69 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0040.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0041.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0042.jpg",
-                        "/blog/fotos/uploads/2017/11/IMG-20171016-WA0048.jpg"
+                        "/blog/fotos/uploads/2017/11/IMG-20171016-WA0048.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0043.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0044.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0045.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0046.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0047.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0049.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0050.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0051.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0052.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0053.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0054.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0055.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0056.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0057.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0058.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0059.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0060.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0061.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0062.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0063.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0064.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0065.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0066.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0067.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0068.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0069.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0070.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0071.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0072.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0073.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0074.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0075.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0076.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0077.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0078.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0079.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0081.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0082.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0083.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0084.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0085.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0086.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0087.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0088.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0091.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0094.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0095.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0096.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0098.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0099.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0100.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0103.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0104.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0109.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0110.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0111.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0112.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0113.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0120.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0124.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0125.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2017/IMG-20171016-WA0126.jpg"
                     ]
     },
     {
@@ -614,7 +987,7 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-ceia-monstro-2016/1142.JPG",
                         "/blog/fotos/gallery/fotos-ceia-monstro-2016/1165.JPG",
                         "/blog/fotos/gallery/fotos-ceia-monstro-2016/1187.JPG",
-                        "/blog/fotos/uploads/2017/11/1187-1024x768.jpg"
+                        "/blog/fotos/uploads/2017/11/1187.jpg"
                     ]
     },
     {
@@ -649,7 +1022,13 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-12-de-2016/DSCN8547.JPG",
                         "/blog/fotos/gallery/fotos-do-12-de-2016/DSCN8550.JPG",
                         "/blog/fotos/gallery/fotos-do-12-de-2016/DSCN8557.JPG",
-                        "/blog/fotos/uploads/2016/11/DSCN8461.jpg"
+                        "/blog/fotos/uploads/2016/11/DSCN8461.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2016/DSCN8579.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2016/DSCN8584.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2016/DSCN8586.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2016/DSCN8592.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2016/DSCN8596.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2016/DSCN8602.JPG"
                     ]
     },
     {
@@ -757,7 +1136,9 @@ const blogPosts = [
                         "/blog/fotos/gallery/ceia-monstro-de-2015/DSC06581.JPG",
                         "/blog/fotos/gallery/ceia-monstro-de-2015/DSC06583.JPG",
                         "/blog/fotos/gallery/ceia-monstro-de-2015/DSC06635.JPG",
-                        "/blog/fotos/uploads/2016/01/DSC06635.jpg"
+                        "/blog/fotos/uploads/2016/01/DSC06635.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2015/DSC06646.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2015/DSC06648.JPG"
                     ]
     },
     {
@@ -792,7 +1173,11 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-12-2015/DSC01470.JPG",
                         "/blog/fotos/gallery/fotos-12-2015/DSC01472.JPG",
                         "/blog/fotos/gallery/fotos-12-2015/DSC01481.JPG",
-                        "/blog/fotos/uploads/2015/10/DSC01426.jpg"
+                        "/blog/fotos/uploads/2015/10/DSC01426.jpg",
+                        "/blog/fotos/gallery/fotos-12-2015/DSC01486.JPG",
+                        "/blog/fotos/gallery/fotos-12-2015/DSC01493.JPG",
+                        "/blog/fotos/gallery/fotos-12-2015/DSC01498.JPG",
+                        "/blog/fotos/gallery/fotos-12-2015/DSC01507.JPG"
                     ]
     },
     {
@@ -831,7 +1216,16 @@ const blogPosts = [
                         "/blog/fotos/gallery/sitio-do-humberto-2015/DSC05897.JPG",
                         "/blog/fotos/gallery/sitio-do-humberto-2015/DSC05900.JPG",
                         "/blog/fotos/gallery/sitio-do-humberto-2015/DSC05902.JPG",
-                        "/blog/fotos/gallery/sitio-do-humberto-2015/DSC05904.JPG"
+                        "/blog/fotos/gallery/sitio-do-humberto-2015/DSC05904.JPG",
+                        "/blog/fotos/gallery/sitio-do-humberto-2015/DSC05889-1.JPG_backup",
+                        "/blog/fotos/gallery/sitio-do-humberto-2015/DSC05891-1.JPG_backup",
+                        "/blog/fotos/gallery/sitio-do-humberto-2015/DSC05893-1.JPG_backup",
+                        "/blog/fotos/gallery/sitio-do-humberto-2015/DSC05894-1.JPG_backup",
+                        "/blog/fotos/gallery/sitio-do-humberto-2015/DSC05895-1.JPG_backup",
+                        "/blog/fotos/gallery/sitio-do-humberto-2015/DSC05897-1.JPG_backup",
+                        "/blog/fotos/gallery/sitio-do-humberto-2015/DSC05900-1.JPG_backup",
+                        "/blog/fotos/gallery/sitio-do-humberto-2015/DSC05902-1.JPG_backup",
+                        "/blog/fotos/gallery/sitio-do-humberto-2015/DSC05904-1.JPG_backup"
                     ]
     },
     {
@@ -945,7 +1339,30 @@ const blogPosts = [
                         "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2515.JPG",
                         "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2520.JPG",
                         "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2528.JPG",
-                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2532.JPG"
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2532.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2440-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2443-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2446-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2447-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2450-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2452-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2458-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2461-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2465-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2472-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2473-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2476-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2480-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2484-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2486-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2487-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2490-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2499-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2513-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2515-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2520-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2528-1.JPG",
+                        "/blog/fotos/gallery/ceia-monstro-de-2014/DSCN2532-1.JPG"
                     ]
     },
     {
@@ -980,7 +1397,25 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2370.JPG",
                         "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2382.JPG",
                         "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2386.JPG",
-                        "/blog/fotos/uploads/2014/10/DSCN2386.jpg"
+                        "/blog/fotos/uploads/2014/10/DSCN2386.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2387.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2390.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2392.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2394.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2397.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2400.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2401.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2402.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2407.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2412.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2414.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2415.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2416.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2419.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2426.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2432.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2437.JPG",
+                        "/blog/fotos/gallery/fotos-do-12-de-2014/DSCN2439.JPG"
                     ]
     },
     {
@@ -1015,7 +1450,11 @@ const blogPosts = [
                         "/blog/fotos/gallery/formatura-seu-bosta/DSCN2259.JPG",
                         "/blog/fotos/gallery/formatura-seu-bosta/DSCN2262.JPG",
                         "/blog/fotos/gallery/formatura-seu-bosta/DSCN2273.JPG",
-                        "/blog/fotos/uploads/2014/09/DSCN2218.jpg"
+                        "/blog/fotos/uploads/2014/09/DSCN2218.jpg",
+                        "/blog/fotos/gallery/formatura-seu-bosta/DSCN2286.JPG",
+                        "/blog/fotos/gallery/formatura-seu-bosta/DSCN2302.JPG",
+                        "/blog/fotos/gallery/formatura-seu-bosta/DSCN2314.JPG",
+                        "/blog/fotos/gallery/formatura-seu-bosta/DSCN2322.JPG"
                     ]
     },
     {
@@ -1024,13 +1463,13 @@ const blogPosts = [
         "titulo":  "Venha morar na República Senzala !",
         "data":  "29/07/2014",
         "categoria":  "Vagas",
-        "imagem":  "/blog/fotos/uploads/2014/07/Panfleto-Fila-de-Matricula-Atualizado-731x1024.jpg",
+        "imagem":  "/blog/fotos/uploads/2014/07/Panfleto-Fila-de-Matricula-Atualizado.jpg",
         "resumo":  "Venha morar na República Senzala !. Registro histórico das comemorações e acontecimentos da República Senzala.",
         "conteudo":  [
                          "Venha morar na República Senzala !. Registro histórico das comemorações e acontecimentos da República Senzala."
                      ],
         "galeria":  [
-                        "/blog/fotos/uploads/2014/07/Panfleto-Fila-de-Matricula-Atualizado-731x1024.jpg"
+                        "/blog/fotos/uploads/2014/07/Panfleto-Fila-de-Matricula-Atualizado.jpg"
                     ]
     },
     {
@@ -1065,7 +1504,14 @@ const blogPosts = [
                         "/blog/fotos/gallery/formatura-tapete-de-zona/DSCN2955.JPG",
                         "/blog/fotos/gallery/formatura-tapete-de-zona/DSCN2960.JPG",
                         "/blog/fotos/gallery/formatura-tapete-de-zona/DSCN2969.JPG",
-                        "/blog/fotos/gallery/formatura-tapete-de-zona/DSCN2985.JPG"
+                        "/blog/fotos/gallery/formatura-tapete-de-zona/DSCN2985.JPG",
+                        "/blog/fotos/gallery/formatura-tapete-de-zona/DSCN2999.JPG",
+                        "/blog/fotos/gallery/formatura-tapete-de-zona/DSCN3019.JPG",
+                        "/blog/fotos/gallery/formatura-tapete-de-zona/DSCN3025.JPG",
+                        "/blog/fotos/gallery/formatura-tapete-de-zona/DSCN3046.JPG",
+                        "/blog/fotos/gallery/formatura-tapete-de-zona/DSCN3048.JPG",
+                        "/blog/fotos/gallery/formatura-tapete-de-zona/DSCN3051.JPG",
+                        "/blog/fotos/gallery/formatura-tapete-de-zona/DSCN3055.JPG"
                     ]
     },
     {
@@ -1102,7 +1548,10 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-21-de-2014/DSCN2042.JPG",
                         "/blog/fotos/gallery/fotos-do-21-de-2014/DSCN2043.JPG",
                         "/blog/fotos/gallery/fotos-do-21-de-2014/DSCN2045.JPG",
-                        "/blog/fotos/uploads/2014/04/DSCN2033.jpg"
+                        "/blog/fotos/uploads/2014/04/DSCN2033.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2014/DSCN2046.JPG",
+                        "/blog/fotos/gallery/fotos-do-21-de-2014/DSCN2047.JPG",
+                        "/blog/fotos/gallery/fotos-do-21-de-2014/DSCN2048.JPG"
                     ]
     },
     {
@@ -1126,7 +1575,7 @@ const blogPosts = [
         "titulo":  "A parede dos quadrinhos acaba de aumentar… Formatura do Bestão e do Xucha Baiana.",
         "data":  "01/04/2014",
         "categoria":  "Formaturas",
-        "imagem":  "/blog/fotos/uploads/2014/04/DSCN19801-1024x768.jpg",
+        "imagem":  "/blog/fotos/uploads/2014/04/DSCN19801.jpg",
         "resumo":  "O escravo Bestão se formou em Engenharia Geológica e o escravo Xucha Baiana se formou em Engenharia Ambiental. Na presença de familiares, amigos e ex-Alunos comemoraram essa grande conquista!!!",
         "conteudo":  [
                          "O escravo Bestão se formou em Engenharia Geológica e o escravo Xucha Baiana se formou em Engenharia Ambiental. Na presença de familiares, amigos e ex-Alunos comemoraram essa grande conquista!!!",
@@ -1134,7 +1583,7 @@ const blogPosts = [
                          "Deixe seu recado para os formandos nos comentários abaixo."
                      ],
         "galeria":  [
-                        "/blog/fotos/uploads/2014/04/DSCN19801-1024x768.jpg"
+                        "/blog/fotos/uploads/2014/04/DSCN19801.jpg"
                     ]
     },
     {
@@ -1143,13 +1592,13 @@ const blogPosts = [
         "titulo":  "A XII Ceia Monstro da Senzala fechou o ano de 2013 com chave de ouro!",
         "data":  "09/01/2014",
         "categoria":  "Ceia Monstro",
-        "imagem":  "/blog/fotos/uploads/2014/01/DSC019141-1024x768.jpg",
+        "imagem":  "/blog/fotos/uploads/2014/01/DSC019141.jpg",
         "resumo":  "Confira as fotos da Ceia aqui.",
         "conteudo":  [
                          "Confira as fotos da Ceia aqui."
                      ],
         "galeria":  [
-                        "/blog/fotos/uploads/2014/01/DSC019141-1024x768.jpg"
+                        "/blog/fotos/uploads/2014/01/DSC019141.jpg"
                     ]
     },
     {
@@ -1158,20 +1607,20 @@ const blogPosts = [
         "titulo":  "Ceia Monstro de 2013",
         "data":  "15/12/2013",
         "categoria":  "Ceia Monstro",
-        "imagem":  "/blog/fotos/uploads/2014/01/DSC01871-e1389272582366-150x150.jpg",
+        "imagem":  "/blog/fotos/gallery/ceia-monstro-2013/dsc01871.jpg",
         "resumo":  "Galeria de fotos com os registros de Ceia Monstro de 2013 da República Senzala.",
         "conteudo":  [
                          "Galeria de fotos com os registros de Ceia Monstro de 2013 da República Senzala.",
                          "Confira abaixo todas as fotos deste grande momento da nossa história:"
                      ],
         "galeria":  [
-                        "/blog/fotos/uploads/2014/01/DSC01871-e1389272582366-150x150.jpg",
-                        "/blog/fotos/uploads/2014/01/DSC01885-150x150.jpg",
-                        "/blog/fotos/uploads/2014/01/DSC01897-150x150.jpg",
-                        "/blog/fotos/uploads/2014/01/DSC01904-150x150.jpg",
-                        "/blog/fotos/uploads/2014/01/DSC01910-150x150.jpg",
-                        "/blog/fotos/uploads/2014/01/DSC01912-150x150.jpg",
-                        "/blog/fotos/uploads/2014/01/DSC019141-150x150.jpg"
+                        "/blog/fotos/gallery/ceia-monstro-2013/dsc01871.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-2013/dsc01885.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-2013/dsc01897.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-2013/dsc01904.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-2013/dsc01910.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-2013/dsc01912.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-2013/dsc01914.jpg"
                     ]
     },
     {
@@ -1180,13 +1629,13 @@ const blogPosts = [
         "titulo":  "Confira as fotos do Doze de Outubro de 2013 e deixe seu recado !!!",
         "data":  "16/10/2013",
         "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/10/DSCN0183-1024x768.jpg",
+        "imagem":  "/blog/fotos/uploads/2013/10/DSCN0183.jpg",
         "resumo":  "O Doze de Outubro de 2013 contou com a presença em massa dos Ex-Alunos, familiares e amigos da República Senzala !!! Tudo que um DOZE tradicional deve possuir. Confira nas fotos clicando aqui.",
         "conteudo":  [
                          "O Doze de Outubro de 2013 contou com a presença em massa dos Ex-Alunos, familiares e amigos da República Senzala !!! Tudo que um DOZE tradicional deve possuir. Confira nas fotos clicando aqui."
                      ],
         "galeria":  [
-                        "/blog/fotos/uploads/2013/10/DSCN0183-1024x768.jpg"
+                        "/blog/fotos/uploads/2013/10/DSCN0183.jpg"
                     ]
     },
     {
@@ -1195,47 +1644,47 @@ const blogPosts = [
         "titulo":  "12 de Outubro de 2013 - Galeria Histórica",
         "data":  "12/10/2013",
         "categoria":  "12 de Outubro",
-        "imagem":  "/blog/fotos/uploads/2013/10/DSCN0124-150x150.jpg",
+        "imagem":  "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0124.jpg",
         "resumo":  "Galeria de fotos com os registros de 12 de Outubro de 2013 - Galeria Histórica da República Senzala.",
         "conteudo":  [
                          "Galeria de fotos com os registros de 12 de Outubro de 2013 - Galeria Histórica da República Senzala.",
                          "Confira abaixo todas as fotos deste grande momento da nossa história:"
                      ],
         "galeria":  [
-                        "/blog/fotos/uploads/2013/10/DSCN0124-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0126-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0127-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0133-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0135-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0137-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0151-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0152-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0153-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0158-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0160-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0165-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0170-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0171-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0172-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0173-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0174-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0194-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0201-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0206-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0215-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0223-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0224-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0237-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0241-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0245-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0256-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0263-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0276-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0290-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0292-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0294-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0303-150x150.jpg",
-                        "/blog/fotos/uploads/2013/10/DSCN0310-150x150.jpg"
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0124.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0126.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0127.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0133.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0135.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0137.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0151.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0152.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0153.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0158.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0160.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0165.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0170.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0171.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0172.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0173.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0174.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0194.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0201.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0206.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0215.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0223.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0237.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0241.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0245.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0256.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0263.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0276.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0290.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0292.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0294.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0303.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0310.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2013-2/dscn0183.jpg"
                     ]
     },
     {
@@ -1261,7 +1710,7 @@ const blogPosts = [
         "titulo":  "Formatura do Pitócu e Pagodéro (2012/2)",
         "data":  "22/08/2013",
         "categoria":  "Formaturas",
-        "imagem":  "/blog/fotos/uploads/2013/08/DSC03537-150x150.jpg",
+        "imagem":  "/blog/fotos/uploads/2013/08/DSC03537.jpg",
         "resumo":  "Os Escravos agradecem o comparecimento de todos Ex-Alunos, familiares e amigos na formatura do Pitácu e do Pagodêro.",
         "conteudo":  [
                          "Os Escravos agradecem o comparecimento de todos Ex-Alunos, familiares e amigos na formatura do Pitácu e do Pagodêro.",
@@ -1288,14 +1737,29 @@ const blogPosts = [
                         "/blog/fotos/gallery/formatura-pitacu-e-pagodero/dsc03496.jpg",
                         "/blog/fotos/gallery/formatura-pitacu-e-pagodero/dsc03500.jpg",
                         "/blog/fotos/gallery/formatura-pitacu-e-pagodero/dsc03501.jpg",
-                        "/blog/fotos/uploads/2013/08/DSC03537-150x150.jpg",
-                        "/blog/fotos/uploads/2013/08/DSC03424-1024x768.jpg",
-                        "/blog/fotos/uploads/2013/08/DSC03432-1024x768.jpg",
-                        "/blog/fotos/uploads/2013/08/DSC03552-1024x768.jpg",
-                        "/blog/fotos/uploads/2013/08/DSC03559-1024x768.jpg",
+                        "/blog/fotos/uploads/2013/08/DSC03537.jpg",
+                        "/blog/fotos/uploads/2013/08/DSC03424.jpg",
+                        "/blog/fotos/uploads/2013/08/DSC03432.jpg",
+                        "/blog/fotos/uploads/2013/08/DSC03552.jpg",
+                        "/blog/fotos/uploads/2013/08/DSC03559.jpg",
                         "/blog/fotos/uploads/2013/08/Formatura-2.jpg",
                         "/blog/fotos/uploads/2013/08/Formatura-13.jpg",
-                        "/blog/fotos/uploads/2013/08/Formatura-3.jpg"
+                        "/blog/fotos/uploads/2013/08/Formatura-3.jpg",
+                        "/blog/fotos/gallery/formatura-pitacu-e-pagodero/dsc03519.jpg",
+                        "/blog/fotos/gallery/formatura-pitacu-e-pagodero/dsc03524.jpg",
+                        "/blog/fotos/gallery/formatura-pitacu-e-pagodero/dsc03529.jpg",
+                        "/blog/fotos/gallery/formatura-pitacu-e-pagodero/dsc03537.jpg",
+                        "/blog/fotos/gallery/formatura-pitacu-e-pagodero/dsc03552.jpg",
+                        "/blog/fotos/gallery/formatura-pitacu-e-pagodero/dsc03559.jpg",
+                        "/blog/fotos/gallery/formatura-pitacu-e-pagodero/dsc03564.jpg",
+                        "/blog/fotos/gallery/formatura-pitacu-e-pagodero/dsc03565.jpg",
+                        "/blog/fotos/gallery/formatura-pitacu-e-pagodero/dsc03568.jpg",
+                        "/blog/fotos/gallery/formatura-pitacu-e-pagodero/dsc03571.jpg",
+                        "/blog/fotos/gallery/formatura-pitacu-e-pagodero/dsc03573.jpg",
+                        "/blog/fotos/gallery/formatura-pitacu-e-pagodero/dsc03576.jpg",
+                        "/blog/fotos/gallery/formatura-pitacu-e-pagodero/dsc03581.jpg",
+                        "/blog/fotos/gallery/formatura-pitacu-e-pagodero/formatura-12.jpg",
+                        "/blog/fotos/gallery/formatura-pitacu-e-pagodero/formatura-9.jpg"
                     ]
     },
     {
@@ -1304,13 +1768,13 @@ const blogPosts = [
         "titulo":  "Venha morar na República Senzala!!!",
         "data":  "22/08/2013",
         "categoria":  "Vagas",
-        "imagem":  "/blog/fotos/uploads/2013/08/Panfleto-Fila-de-Matricula-NOVO-731x1024.jpg",
+        "imagem":  "/blog/fotos/uploads/2013/08/Panfleto-Fila-de-Matricula-NOVO.jpg",
         "resumo":  "Venha morar na República Senzala!!!. Registro histórico das comemorações e acontecimentos da República Senzala.",
         "conteudo":  [
                          "Venha morar na República Senzala!!!. Registro histórico das comemorações e acontecimentos da República Senzala."
                      ],
         "galeria":  [
-                        "/blog/fotos/uploads/2013/08/Panfleto-Fila-de-Matricula-NOVO-731x1024.jpg"
+                        "/blog/fotos/uploads/2013/08/Panfleto-Fila-de-Matricula-NOVO.jpg"
                     ]
     },
     {
@@ -1319,33 +1783,33 @@ const blogPosts = [
         "titulo":  "Formatura - Bestão e Xucha 2013/2",
         "data":  "15/07/2013",
         "categoria":  "Formaturas",
-        "imagem":  "/blog/fotos/uploads/2014/04/DSCN1956-150x150.jpg",
+        "imagem":  "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn1956.jpg",
         "resumo":  "Galeria de fotos com os registros de Formatura - Bestão e Xucha 2013/2 da República Senzala.",
         "conteudo":  [
                          "Galeria de fotos com os registros de Formatura - Bestão e Xucha 2013/2 da República Senzala.",
                          "Confira abaixo todas as fotos deste grande momento da nossa história:"
                      ],
         "galeria":  [
-                        "/blog/fotos/uploads/2014/04/DSCN1956-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN1957-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN1959-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN1960-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN1963-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN1964-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN1969-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN1972-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN1975-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN1977-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN1980-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN1981-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN1982-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN1987-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN1992-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN1995-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN2000-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN2003-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN2010-150x150.jpg",
-                        "/blog/fotos/uploads/2014/04/DSCN2017-150x150.jpg"
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn1956.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn1957.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn1959.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn1960.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn1963.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn1964.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn1969.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn1972.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn1975.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn1977.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn1980.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn1981.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn1982.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn1987.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn1992.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn1995.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn2000.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn2003.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn2010.jpg",
+                        "/blog/fotos/gallery/formatura-bestao-e-xucha-20141/dscn2017.jpg"
                     ]
     },
     {
@@ -1354,35 +1818,58 @@ const blogPosts = [
         "titulo":  "Formatura - Puêra 2013/1",
         "data":  "15/07/2013",
         "categoria":  "Formaturas",
-        "imagem":  "/blog/fotos/uploads/2013/09/DSC04173-150x150.jpg",
+        "imagem":  "/blog/fotos/uploads/2013/09/DSC04173.jpg",
         "resumo":  "Galeria de fotos com os registros de Formatura - Puêra 2013/1 da República Senzala.",
         "conteudo":  [
                          "Galeria de fotos com os registros de Formatura - Puêra 2013/1 da República Senzala.",
                          "Confira abaixo todas as fotos deste grande momento da nossa história:"
                      ],
         "galeria":  [
-                        "/blog/fotos/uploads/2013/09/DSC04173-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04174-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04176-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04180-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04181-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04182-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04184-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04185-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04187-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04194-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04197-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04198-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04200-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04201-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04202-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04209-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04216-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04219-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSC04221-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSCN0013-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSCN0019-150x150.jpg",
-                        "/blog/fotos/uploads/2013/09/DSCN0023-150x150.jpg"
+                        "/blog/fotos/uploads/2013/09/DSC04173.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04174.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04176.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04180.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04181.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04182.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04184.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04185.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04187.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04194.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04197.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04198.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04200.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04201.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04202.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04209.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04216.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04219.jpg",
+                        "/blog/fotos/uploads/2013/09/DSC04221.jpg",
+                        "/blog/fotos/uploads/2013/09/DSCN0013.jpg",
+                        "/blog/fotos/uploads/2013/09/DSCN0019.jpg",
+                        "/blog/fotos/uploads/2013/09/DSCN0023.jpg"
+                    ]
+    },
+    {
+        "id":  "festas-22",
+        "slug":  "festas-22",
+        "titulo":  "A bebida que nasceu na Senzala",
+        "data":  "24/06/2013",
+        "categoria":  "Geral",
+        "imagem":  "/blog/fotos/uploads/2013/06/Festas-Engenho.jpg",
+        "resumo":  "No Brasil, a aguardente foi símbolo da resistência dos escravos à dominação portuguesa.",
+        "conteudo":  [
+                         "Engenho manual que faz caldo de cana, na aquarela de Jean Baptiste Debret, Rio de Janeiro, 1822.",
+                         "No Brasil, a aguardente foi símbolo da resistência dos escravos à dominação portuguesa.",
+                         "Os egípcios já curavam suas doenças inalado vapor de líquidos aromatizados e fermentados. Os primeiros a destilar uma bebida foram os chineses. Já os gregos tomaram a dianteira, registrando o processo de obtenção da \"acqua ardens\", batizada por Plínio, o velho, de \"alkuru\". Suas propriedades transformaram a aguardente, que pegava fogo, em água da vida, por suas características medicinais. A \"Eau de Vie\" foi receitada como elixir da longevidade.",
+                         "Com a expansão do Império Romano, a aguardente invadiu territórios e aprimorou sua tecnologia de produção. Na Itália , o destilado de uva ficou conhecido como \"grappa\". A partir da cereja, a Alemanha desenvolveu o \"kirch\". A Escócia fez o \"whisky\" da cevada maltada, a Rússia destilou o cereal para obter a \"vodka\", e do arroz veio o \"saquê japonês\".",
+                         "A cana de açúcar chegou ao Brasil trazida da Ilha da Madeira pelos portugueses, ainda no século XVII. No engenho de Martin Afonso de Souza, da capitania de São Vicente, logo descobriram o vinho de cana, conhecido como \"garapa azeda\", líquido restante dos tachos de rapadura, que servia de alimento para os animais. Os escravos passaram a tomar essa bebida, inicialmente apenas fermentada. Foram eles também que começaram a destilar a mistura, então chamada cagaça semanticamente, de cagaça a cachaça foi um pulo e a nova bebida se transformou em moeda corrente para a compra de escravos na África. A cachaça artesanal prosperou, no início, no litoral sul do Rio de Janeiro.",
+                         "A descoberta de ouro nas Minas Gerais trouxe uma infinidade de aventureiros de todas as partes do país. Para aquecer as frias noites em meio às montanhas da Serra do Espinhaço, só mesmo o destilado de alto teor alcoólico. Portugal ficou incomodada porque a cachaça roubou o mercado do vinho do Porto e da bagaceira. Destilado da casca da uva. Alegando que a bebida prejudicava a extração de ouro nas minas, a Corte proibiu várias vezes a produção e comercialização da cachaça. Não deu certo e acabou por cobrar uma alta tributação da bebida mais consumida no estado. A aguardente se transformou em símbolo da resistência à dominação portuguesa, instigando inclusive o primeiro grande movimento de liberdade do país, a Inconfidência Mineira.",
+                         "As técnicas de produção se aprimoraram, mas Minas Gerais continua fiel às tradições. Não abre mão, por exemplo, do alambique de cobre. A flora local também colaborou para o desenvolvimento das técnicas de envelhecimento na madeira, o que sofistica o produto.",
+                         "Na primeira metade deste século, a cidade de Salinas, no norte do estado, viu na cachaça uma ótima fonte de renda. Para isso, era preciso melhorar a qualidade do produto. Primeiro foi um pequeno fazendeiro da cidade, chamado Anísio Santiago, que introduziu a técnica de separar, durante a destilação, a cachaça em três frações. Apenas a do meio, chamada de coração, considerada nobre, começou a ser envelhecida e comercializada.",
+                         "Mas o grande passo para acabar com o preconceito que pairava sobre o destilado e profissionalizar a produção aconteceu em 1988. Um grupo de produtores em parceria com universidades e com o Instituto de Desenvolvimento de Estado de Minas Gerais (INDI) criou a Associação dos Produtores de Aguardente de Qualidade (Ampaq). Desde então, a Associação estabeleceu normas de fabricação, ministra cursos e palestras e criou um selo de qualidade, o primeiro para bebidas alcoólicas do país."
+                     ],
+        "galeria":  [
+                        "/blog/fotos/uploads/2013/06/Festas-Engenho.jpg"
                     ]
     },
     {
@@ -1466,7 +1953,20 @@ const blogPosts = [
                         "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05847.jpg",
                         "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05852.jpg",
                         "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05856.jpg",
-                        "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05871.jpg"
+                        "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05871.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05876.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05893.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05907.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05919.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05922.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05923.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05930.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05942.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05944.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05950.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05951.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05952.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2012/dsc05953.jpg"
                     ]
     },
     {
@@ -1501,7 +2001,49 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-12-de-2012/imagem29.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-2012/imagem31.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-2012/imagem34.jpg",
-                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem38.jpg"
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem38.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem39.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem40.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem49.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem5.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem51.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem53.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem56.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem57.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem6.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem62.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem63.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem64.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem66.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem68.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem69.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem7.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem70.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem71.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/imagem72.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1732.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1733.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1734.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1737.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1740.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1741.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1746.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1754.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1758.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1763.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1765.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1768.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1774.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1778.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1780.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1783.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1797.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1801.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1806.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1811.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1815.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1825.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2012/sam_1833.jpg"
                     ]
     },
     {
@@ -1536,7 +2078,95 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-21-de-2012/imagem16.jpg",
                         "/blog/fotos/gallery/fotos-do-21-de-2012/imagem17.jpg",
                         "/blog/fotos/gallery/fotos-do-21-de-2012/imagem18.jpg",
-                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem19.jpg"
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem19.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem2.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem20.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem21.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem22.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem23.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem24.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem25.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem26.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem27.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem28.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem29.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem3.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem30.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem31.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem32.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem33.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem34.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem35.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem36.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem37.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem38.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem39.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem4.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem40.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem41.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem42.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem43.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem44.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem45.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem46.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem47.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem48.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem49.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem5.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem50.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem51.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem52.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem53.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem54.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem55.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem56.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem57.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem58.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem59.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem6.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem60.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem61.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem62.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem63.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem64.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem65.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem66.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem67.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem68.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem69.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem7.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem70.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem71.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem72.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem73.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem74.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem75.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem76.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem77.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem78.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem79.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem8.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem80.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem81.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem82.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem83.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem84.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem85.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem86.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem87.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem88.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem89.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem9.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem90.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem91.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem92.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem93.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem94.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem95.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem96.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem97.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem98.jpg",
+                        "/blog/fotos/gallery/fotos-do-21-de-2012/imagem99.jpg"
                     ]
     },
     {
@@ -1604,7 +2234,14 @@ const blogPosts = [
                         "/blog/fotos/gallery/ceia-monstro-de-2011/24.jpg",
                         "/blog/fotos/gallery/ceia-monstro-de-2011/25.jpg",
                         "/blog/fotos/gallery/ceia-monstro-de-2011/26.jpg",
-                        "/blog/fotos/gallery/ceia-monstro-de-2011/27.jpg"
+                        "/blog/fotos/gallery/ceia-monstro-de-2011/27.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2011/3.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2011/4.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2011/5.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2011/6.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2011/7.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2011/8.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2011/9.jpg"
                     ]
     },
     {
@@ -1639,7 +2276,8 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-12-de-2011/dsc03220.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-2011/dsc03224.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-2011/dsc03228.jpg",
-                        "/blog/fotos/gallery/fotos-do-12-de-2011/dsc03242.jpg"
+                        "/blog/fotos/gallery/fotos-do-12-de-2011/dsc03242.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2011/dsc03243.jpg"
                     ]
     },
     {
@@ -1800,7 +2438,17 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-12-de-2010/img_0086.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-2010/img_0087.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-2010/img_0102.jpg",
-                        "/blog/fotos/gallery/fotos-do-12-de-2010/img_0104.jpg"
+                        "/blog/fotos/gallery/fotos-do-12-de-2010/img_0104.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2010/img_0110.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2010/img_0119.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2010/img_0131.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2010/img_0139.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2010/img_0169.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2010/img_0175.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2010/img_0180.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2010/img_0187.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2010/img_0197.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2010/img_0205.jpg"
                     ]
     },
     {
@@ -1892,7 +2540,9 @@ const blogPosts = [
                         "/blog/fotos/gallery/ceia-monstro-de-2009/fotoceia_09_4.jpg",
                         "/blog/fotos/gallery/ceia-monstro-de-2009/fotoceia_09_5.jpg",
                         "/blog/fotos/gallery/ceia-monstro-de-2009/fotoceia_09_6.jpg",
-                        "/blog/fotos/gallery/ceia-monstro-de-2009/fotoceia_09_7.jpg"
+                        "/blog/fotos/gallery/ceia-monstro-de-2009/fotoceia_09_7.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2009/fotoceia_09_8.jpg",
+                        "/blog/fotos/gallery/ceia-monstro-de-2009/fotoceia_09_9.jpg"
                     ]
     },
     {
@@ -2391,7 +3041,13 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-12-de-2006/foto12_06_25.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-2006/foto12_06_26.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-2006/foto12_06_27.jpg",
-                        "/blog/fotos/gallery/fotos-do-12-de-2006/foto12_06_3.jpg"
+                        "/blog/fotos/gallery/fotos-do-12-de-2006/foto12_06_3.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2006/foto12_06_4.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2006/foto12_06_5.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2006/foto12_06_6.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2006/foto12_06_7.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2006/foto12_06_8.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-2006/foto12_06_9.jpg"
                     ]
     },
     {
@@ -2426,7 +3082,8 @@ const blogPosts = [
                         "/blog/fotos/gallery/formatura-meia-foda-e-ze-rego/fotoformat_06_5.jpg",
                         "/blog/fotos/gallery/formatura-meia-foda-e-ze-rego/fotoformat_06_6.jpg",
                         "/blog/fotos/gallery/formatura-meia-foda-e-ze-rego/fotoformat_06_7.jpg",
-                        "/blog/fotos/gallery/formatura-meia-foda-e-ze-rego/fotoformat_06_8.jpg"
+                        "/blog/fotos/gallery/formatura-meia-foda-e-ze-rego/fotoformat_06_8.jpg",
+                        "/blog/fotos/gallery/formatura-meia-foda-e-ze-rego/fotoformat_06_9.jpg"
                     ]
     },
     {
@@ -3087,342 +3744,6 @@ const blogPosts = [
                     ]
     },
     {
-        "id":  "album-956",
-        "slug":  "album-956",
-        "titulo":  "Margêr",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/39.Eric-Bartulici2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Margêr da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Margêr da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/39.Eric-Bartulici2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-952",
-        "slug":  "album-952",
-        "titulo":  "Magoo",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/37.Adriano-Carmensi-Carneiro2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Magoo da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Magoo da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/37.Adriano-Carmensi-Carneiro2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-921",
-        "slug":  "album-921",
-        "titulo":  "Cal",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/22.Luiz-Carlos-de-Souza-Sol2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Cal da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Cal da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/22.Luiz-Carlos-de-Souza-Sol2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-913",
-        "slug":  "album-913",
-        "titulo":  "Mongoió",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/18.Geraldo-de-Paula-Vargas2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Mongoió da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Mongoió da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/18.Geraldo-de-Paula-Vargas2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-4569",
-        "slug":  "album-4569",
-        "titulo":  "Forrest Gump",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2026/01/Forrest-225x300.jpg",
-        "resumo":  "Galeria de fotos com os registros de Forrest Gump da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Forrest Gump da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2026/01/Forrest-225x300.jpg"
-                    ]
-    },
-    {
-        "id":  "album-945",
-        "slug":  "album-945",
-        "titulo":  "Cascatinha",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/34.Wanderson-Silv_C3_A9rio-Silva2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Cascatinha da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Cascatinha da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/34.Wanderson-Silv_C3_A9rio-Silva2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-948",
-        "slug":  "album-948",
-        "titulo":  "Jack",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/35.Luiz-Ot_C3_A1vio-Gon_C3_A7alves2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Jack da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Jack da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/35.Luiz-Ot_C3_A1vio-Gon_C3_A7alves2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-950",
-        "slug":  "album-950",
-        "titulo":  "Cebolinha",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/36.Rog_C3_A9rio-de-Lima-Lopes2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Cebolinha da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Cebolinha da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/36.Rog_C3_A9rio-de-Lima-Lopes2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-954",
-        "slug":  "album-954",
-        "titulo":  "Bala",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/38.Jos_C3_A9-Carlos-Bogniotti2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Bala da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Bala da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/38.Jos_C3_A9-Carlos-Bogniotti2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-968",
-        "slug":  "album-968",
-        "titulo":  "Gretty",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/45.Luciano-Alves-Novelli2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Gretty da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Gretty da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/45.Luciano-Alves-Novelli2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-915",
-        "slug":  "album-915",
-        "titulo":  "Pingu",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/19.Luis-Carlos-da-Costa2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Pingu da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Pingu da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/19.Luis-Carlos-da-Costa2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-4279",
-        "slug":  "album-4279",
-        "titulo":  "Sacha Carioca",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2023/12/Sacha-B-e-W-204x300.jpg",
-        "resumo":  "Galeria de fotos com os registros de Sacha Carioca da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Sacha Carioca da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2023/12/Sacha-B-e-W-204x300.jpg"
-                    ]
-    },
-    {
-        "id":  "album-2112",
-        "slug":  "album-2112",
-        "titulo":  "Tapete",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/69.Leandro-Mateus.jpg",
-        "resumo":  "Galeria de fotos com os registros de Tapete da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Tapete da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/69.Leandro-Mateus.jpg"
-                    ]
-    },
-    {
-        "id":  "album-4284",
-        "slug":  "album-4284",
-        "titulo":  "Bidê",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2023/12/Bid_C3_AA-200x300.jpg",
-        "resumo":  "Galeria de fotos com os registros de Bidê da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Bidê da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2023/12/Bid_C3_AA-200x300.jpg"
-                    ]
-    },
-    {
-        "id":  "album-4262",
-        "slug":  "album-4262",
-        "titulo":  "Skeeter",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2026/01/Skeeter1-300x300.jpeg",
-        "resumo":  "Galeria de fotos com os registros de Skeeter da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Skeeter da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2026/01/Skeeter1-300x300.jpeg"
-                    ]
-    },
-    {
-        "id":  "album-4253",
-        "slug":  "album-4253",
-        "titulo":  "Furmiga",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2023/04/Furmiga-2-232x300.jpg",
-        "resumo":  "Galeria de fotos com os registros de Furmiga da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Furmiga da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2023/04/Furmiga-2-232x300.jpg"
-                    ]
-    },
-    {
-        "id":  "album-911",
-        "slug":  "album-911",
-        "titulo":  "Butuim",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/17.Wanderlam-Mendes-da-Silva2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Butuim da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Butuim da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/17.Wanderlam-Mendes-da-Silva2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-917",
-        "slug":  "album-917",
-        "titulo":  "Zé Tyborna",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/20.Carlos-Roberto-da-Silva2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Zé Tyborna da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Zé Tyborna da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/20.Carlos-Roberto-da-Silva2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-919",
-        "slug":  "album-919",
-        "titulo":  "Neguinho",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/21.Carlos-C_C3_A9sar-Martins2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Neguinho da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Neguinho da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/21.Carlos-C_C3_A9sar-Martins2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-909",
-        "slug":  "album-909",
-        "titulo":  "Gigi",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/16.Gild_C3_A1sio-Soares-de-Oliveira2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Gigi da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Gigi da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/16.Gild_C3_A1sio-Soares-de-Oliveira2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-907",
-        "slug":  "album-907",
-        "titulo":  "Orêia",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/15.Sergio-Bomtempo-Martins2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Orêia da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Orêia da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/15.Sergio-Bomtempo-Martins2.jpg"
-                    ]
-    },
-    {
         "id":  "album-552",
         "slug":  "album-552",
         "titulo":  "Casamento do Jack",
@@ -3485,22 +3806,6 @@ const blogPosts = [
                         "/blog/fotos/gallery/festa-dos-carecas/festacarecas_1.jpg",
                         "/blog/fotos/gallery/festa-dos-carecas/festacarecas_2.jpg",
                         "/blog/fotos/gallery/festa-dos-carecas/festacarecas_3.jpg"
-                    ]
-    },
-    {
-        "id":  "album-1207",
-        "slug":  "album-1207",
-        "titulo":  "Rô",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/07/2-Ros_C3_A2ngela-Coelho-Monferrari-Sol-R_C3_B4.jpg",
-        "resumo":  "Galeria de fotos com os registros de Rô da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Rô da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/07/2-Ros_C3_A2ngela-Coelho-Monferrari-Sol-R_C3_B4.jpg"
                     ]
     },
     {
@@ -3575,7 +3880,14 @@ const blogPosts = [
                         "/blog/fotos/gallery/casamento-do-tamburete/q.jpg",
                         "/blog/fotos/gallery/casamento-do-tamburete/r.jpg",
                         "/blog/fotos/gallery/casamento-do-tamburete/s.jpg",
-                        "/blog/fotos/gallery/casamento-do-tamburete/t.jpg"
+                        "/blog/fotos/gallery/casamento-do-tamburete/t.jpg",
+                        "/blog/fotos/gallery/casamento-do-tamburete/u.jpg",
+                        "/blog/fotos/gallery/casamento-do-tamburete/v.jpg",
+                        "/blog/fotos/gallery/casamento-do-tamburete/w.jpg",
+                        "/blog/fotos/gallery/casamento-do-tamburete/x.jpg",
+                        "/blog/fotos/gallery/casamento-do-tamburete/y.jpg",
+                        "/blog/fotos/gallery/casamento-do-tamburete/z.jpg",
+                        "/blog/fotos/gallery/casamento-do-tamburete/za.jpg"
                     ]
     },
     {
@@ -3645,182 +3957,6 @@ const blogPosts = [
                         "/blog/fotos/gallery/i-escravorizontinos/dsc02650.jpg",
                         "/blog/fotos/gallery/i-escravorizontinos/dsc02656.jpg",
                         "/blog/fotos/gallery/i-escravorizontinos/dsc02662.jpg"
-                    ]
-    },
-    {
-        "id":  "album-1219",
-        "slug":  "album-1219",
-        "titulo":  "Renê",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/07/4-Ren_C3_AA-Guimaraes-Ruggeri.jpg",
-        "resumo":  "Galeria de fotos com os registros de Renê da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Renê da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/07/4-Ren_C3_AA-Guimaraes-Ruggeri.jpg"
-                    ]
-    },
-    {
-        "id":  "album-1006",
-        "slug":  "album-1006",
-        "titulo":  "Pitácu",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/63.Luciano-Salgado-Dias2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Pitácu da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Pitácu da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/63.Luciano-Salgado-Dias2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-1000",
-        "slug":  "album-1000",
-        "titulo":  "Zecúrubu",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/60.F_C3_A1bio-L_C3_BAcio-Quint_C3_A3o-Lana2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Zecúrubu da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Zecúrubu da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/60.F_C3_A1bio-L_C3_BAcio-Quint_C3_A3o-Lana2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-1004",
-        "slug":  "album-1004",
-        "titulo":  "Cúliadu",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/62.Hugo-de-Lima-Junqueira2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Cúliadu da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Cúliadu da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/62.Hugo-de-Lima-Junqueira2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-943",
-        "slug":  "album-943",
-        "titulo":  "BA",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/33.Rodrigo-F_C3_A1bio-Viana2.jpg",
-        "resumo":  "Galeria de fotos com os registros de BA da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de BA da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/33.Rodrigo-F_C3_A1bio-Viana2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-941",
-        "slug":  "album-941",
-        "titulo":  "Chitão",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/32.Eduardo-C_C3_A2ndido-da-Silva2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Chitão da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Chitão da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/32.Eduardo-C_C3_A2ndido-da-Silva2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-985",
-        "slug":  "album-985",
-        "titulo":  "Meia-Foda",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/53.Robson-Nunes-Dal-Col2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Meia-Foda da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Meia-Foda da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/53.Robson-Nunes-Dal-Col2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-3649",
-        "slug":  "album-3649",
-        "titulo":  "Gambá",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2020/04/Rubens-gamb_C3_A1-207x300.jpg",
-        "resumo":  "Galeria de fotos com os registros de Gambá da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Gambá da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2020/04/Rubens-gamb_C3_A1-207x300.jpg"
-                    ]
-    },
-    {
-        "id":  "album-977",
-        "slug":  "album-977",
-        "titulo":  "Juzilino",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/49.Felippe-Pereira-da-Costa2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Juzilino da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Juzilino da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/49.Felippe-Pereira-da-Costa2.jpg"
-                    ]
-    },
-    {
-        "id":  "album-1667",
-        "slug":  "album-1667",
-        "titulo":  "S.B.",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/68.Matheus-Alves-e-Farnese.jpg",
-        "resumo":  "Galeria de fotos com os registros de S.B. da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de S.B. da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/68.Matheus-Alves-e-Farnese.jpg"
-                    ]
-    },
-    {
-        "id":  "album-1008",
-        "slug":  "album-1008",
-        "titulo":  "Pagodêro",
-        "data":  "01/06/2000",
-        "categoria":  "Geral",
-        "imagem":  "/blog/fotos/uploads/2013/06/64.Lucas-Henrique-Hanchuk2.jpg",
-        "resumo":  "Galeria de fotos com os registros de Pagodêro da República Senzala.",
-        "conteudo":  [
-                         "Galeria de fotos com os registros de Pagodêro da República Senzala.",
-                         "Confira abaixo todas as fotos deste grande momento da nossa história:"
-                     ],
-        "galeria":  [
-                        "/blog/fotos/uploads/2013/06/64.Lucas-Henrique-Hanchuk2.jpg"
                     ]
     },
     {
@@ -4220,7 +4356,10 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-12-de-1995/foto12_95_3.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-1995/foto12_95_4.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-1995/foto12_95_5.jpg",
-                        "/blog/fotos/gallery/fotos-do-12-de-1995/foto12_95_6.jpg"
+                        "/blog/fotos/gallery/fotos-do-12-de-1995/foto12_95_6.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-1995/foto12_95_7.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-1995/foto12_95_8.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-1995/foto12_95_9.jpg"
                     ]
     },
     {
@@ -4354,7 +4493,8 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-12-de-1986/foto12_86_4.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-1986/foto12_86_5.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-1986/foto12_86_6.jpg",
-                        "/blog/fotos/gallery/fotos-do-12-de-1986/foto12_86_7.jpg"
+                        "/blog/fotos/gallery/fotos-do-12-de-1986/foto12_86_7.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-1986/foto12_86_13.jpg"
                     ]
     },
     {
@@ -4516,7 +4656,9 @@ const blogPosts = [
                         "/blog/fotos/gallery/fotos-do-12-de-1983/foto12_83_3.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-1983/foto12_83_4.jpg",
                         "/blog/fotos/gallery/fotos-do-12-de-1983/foto12_83_5.jpg",
-                        "/blog/fotos/gallery/fotos-do-12-de-1983/foto12_83_6.jpg"
+                        "/blog/fotos/gallery/fotos-do-12-de-1983/foto12_83_6.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-1983/foto12_83_7.jpg",
+                        "/blog/fotos/gallery/fotos-do-12-de-1983/foto12_83_8.jpg"
                     ]
     }
 ];
